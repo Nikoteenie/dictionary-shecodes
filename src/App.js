@@ -1,5 +1,6 @@
 import logo from "./yello.gif";
 import Dictionary from "./Dictionary";
+
 import "./App.css";
 
 export default function App() {
