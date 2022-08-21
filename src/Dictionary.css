@@ -1,3 +1,9 @@
 .Dictionary {
-  color:blue
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+.Dictionary form {
+  text-align: center;
+  margin: 30px auto;
 }

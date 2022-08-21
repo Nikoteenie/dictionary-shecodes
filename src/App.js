@@ -12,8 +12,17 @@ export default function App() {
         </header>
         <main>
           <Dictionary />
-          </main>
-        <footer className="App-footer">Coded by Nicole Brodkin</footer>
+        </main>
+        <footer className="App-footer">
+          <a
+            href="https://github.com/Nikoteenie/dictionary-shecodes.git"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Open Source Code{" "}
+          </a>
+          by Nicole Brodkin
+        </footer>
       </div>
     </div>
   );
