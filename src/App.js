@@ -11,7 +11,7 @@ export default function App() {
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="illustrator" />
         </main>
         <footer className="App-footer">
           <a
